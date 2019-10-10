@@ -12,6 +12,7 @@ ul {
 
 .container {
   width: 70%;
+  min-width: 200px;
   margin: 0 auto;
 }
 
