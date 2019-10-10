@@ -35,6 +35,7 @@ img {
 .skills-list li,
 li span {
   display: inline-block;
+  margin: 5px;
   padding: 10px;
   border-radius: 10px;
   background-color: yellow;
